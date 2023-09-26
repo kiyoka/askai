@@ -143,6 +143,7 @@ Please add the following Emacs Lisp code to ~/.emacs.d/init.el.
 	  (insert "\n\n")
 	  (insert str))))))
 (global-set-key (kbd "M-c") 'askai-on-region)
+```
 
 You can pass the string you are editing in Emacs directly to `askai`.
 Please select region the following text in Emacs and press the ESC-c key.
