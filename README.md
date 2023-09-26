@@ -147,7 +147,7 @@ Please add the following Emacs Lisp code to ~/.emacs.d/init.el.
 
 Please restart Emacs and open the `*scratch*` buffer and please input the following sentence.
 
-Then, Please select region the following text in Emacs and press the `ESC-c` key.
+Then, please select region the following text in Emacs and press the `ESC-c` key.
 
 ```
 Please write a program in Go that outputs "Hello world”.
