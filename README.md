@@ -145,8 +145,8 @@ Please add the following Emacs Lisp code to ~/.emacs.d/init.el.
 (global-set-key (kbd "M-c") 'askai-on-region)
 ```
 
-You can pass the string you are editing in Emacs directly to `askai`.
-Please select region the following text in Emacs and press the ESC-c key.
+Please restart Emacs and open the `*scratch*` buffer and please input the following sentence.
+Please select region the following text in Emacs and press the `ESC-c` key.
 
 ```
 Please write a program in Go that outputs "Hello world”.
